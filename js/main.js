@@ -118,9 +118,7 @@ alert("Gracias por la compra, vuelva prontos")
 
 
 
-
-
-
+//CALCULADORA DE PRECIO POR KILO
 
 /*const producto = (a,b) => a * b
 const resta = (a,b) => a - b
